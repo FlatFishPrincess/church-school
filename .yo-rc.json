@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.gracehanin.churchschool",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.1.2",
+    "applicationType": "monolith",
+    "baseName": "churchschool",
+    "packageName": "org.gracehanin.churchschool",
+    "packageFolder": "org/gracehanin/churchschool",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTMzNjViODZjNWEzNGJlOTg3ZWJlNGM1NjRlMTkwMzMzYjg1YjRiOWRlN2JkYTRlZmMwMGQzOTRkZTI4NzQ1MzdkNTgzMzA4YjEwNjU1YzUwZTRhMjQ4MzU3MWI2NDU1MjdiZTU2NTA4ZDlhNDQ1OTBiOTAxMjg0NTI3N2MyOTc=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ko"
+    ]
+  }
+}
